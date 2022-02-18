@@ -1,0 +1,1 @@
+Repositório referente ao script SQL do modo de Banco de Dados da Devaria
